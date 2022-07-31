@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "New York, USA",
+        "image": "",
+        "category": "",
+        "price": 500,
+        "bed": 4,
+        "space": 1200
+    },
+    {
+        "id": 2,
+        "name": "Arizona",
+        "image": "",
+        "category": "",
+        "price": 2000,
+        "bed": 3,
+        "space": 800
+    },
+    {
+        "id": 3,
+        "name": "California",
+        "image": "",
+        "category": "",
+        "price": 1500,
+        "bed": 4,
+        "space": 1100
+    },
+    {
+        "id": 4,
+        "name": "Florida",
+        "image": "",
+        "category": "",
+        "price": 800,
+        "bed": 2,
+        "space": 900
+    },
+    {
+        "id": 5,
+        "name": "Georgia",
+        "image": "",
+        "category": "",
+        "price": 1500,
+        "bed": 3,
+        "space": 1500
+    },
+    {
+        "id": 6,
+        "name": "Louisiana",
+        "image": "",
+        "category": "",
+        "price": 1100,
+        "bed": 2,
+        "space": 800
+    },
+    {
+        "id": 7,
+        "name": "Michigan",
+        "image": "",
+        "category": "",
+        "price": 700,
+        "bed": 4,
+        "space": 500
+    },
+    {
+        "id": 8,
+        "name": "Mississippi",
+        "image": "",
+        "category": "",
+        "price": 1700,
+        "bed": 3,
+        "space": 700
+    },
+    {
+        "id": 9,
+        "name": "Missouri",
+        "image": "",
+        "category": "",
+        "price": 1200,
+        "bed": 5,
+        "space": 900
+    },
+    {
+        "id": 10,
+        "name": "New Jersey",
+        "image": "",
+        "category": "",
+        "price": 2100,
+        "bed": 4,
+        "space": 1000
+    },
+    {
+        "id": 11,
+        "name": "Pennsylvania",
+        "image": "",
+        "category": "",
+        "price": 2300,
+        "bed": 3,
+        "space": 400
+    },
+    {
+        "id": 12,
+        "name": "Texas",
+        "image": "",
+        "category": "",
+        "price": 2500,
+        "bed": 6,
+        "space": 1500
+    }
+]
